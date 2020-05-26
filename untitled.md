@@ -6,7 +6,6 @@
 | :--- | :--- |
 | $! | zuletzt gestartete Hintergrund prozess |
 | $\_ / $optarg | letztes Argument |
-| $@ | Argumente in der jeweiligen Schlaufe |
 | $$ | Process ID |
 
 • $0 bis $9 Die ersten 10 Bestandteile der Kommandozeile 
