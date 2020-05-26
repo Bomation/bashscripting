@@ -2,6 +2,7 @@
 
 * [Basics](README.md)
 * [System](system/README.md)
+  * [Signal](system/signal.md)
   * [Exit Code](system/exit-code.md)
   * [Host Verwaltung](system/host-verwaltung.md)
   * [Directories](system/directories.md)
