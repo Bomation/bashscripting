@@ -9,6 +9,7 @@
   * [Process](system/process.md)
 * [Berechtigung](berechtigung.md)
 * [Variabeln](variabeln/README.md)
+  * [Arguments](variabeln/arguments.md)
   * [optarg getopts](variabeln/optarg-getopts.md)
   * [Umgebungsvariabeln](variabeln/umgebungsvariabeln.md)
   * [Arrays](variabeln/arrays.md)
